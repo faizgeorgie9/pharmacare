@@ -1,0 +1,240 @@
+{
+    "Acute Bacterial Sinusitis": [
+        "Facial pain or pressure",
+        "Nasal congestion",
+        "Thick nasal discharge",
+        "Headache",
+        "Facial swelling"
+    ],
+    "Adenocarcinoma of Pancreas": [
+        "Abdominal pain",
+        "Yellowing of skin",
+        "Dark urine",
+        "Itchy skin",
+        "Back pain"
+    ],
+    "Atopic Dermatitis": [
+        "Skin redness",
+        "Itchy rashes",
+        "Cracked skin",
+        "Bleeding from scratching",
+        "Skin infection"
+    ],
+    "Back Pain": [
+        "Muscle spasms",
+        "Pain radiating to legs",
+        "Difficulty standing straight",
+        "Localized tenderness",
+        "Pain worsening at night"
+    ],
+    "Bacterial Conjunctivitis": [
+        "Eye redness",
+        "Yellow green discharge",
+        "Crusting on eyelids",
+        "Foreign body sensation",
+        "Blurred vision"
+    ],
+    "Bacterial Urinary Tract Infection": [
+        "Pain in lower abdomen",
+        "Strong urge to urinate",
+        "Blood in urine",
+        "Lower back discomfort",
+        "Low grade fever"
+    ],
+    "Chickenpox": [
+        "Itchy blisters",
+        "Mild fever",
+        "Scab formation",
+        "Rash spreading across body",
+        "Tiredness"
+    ],
+    "Colorectal Cancer": [
+        "Rectal bleeding",
+        "Iron deficiency anemia",
+        "Persistent abdominal pain",
+        "Unexplained weight loss",
+        "Fatigue unrelated to exertion"
+    ],
+    "Depression": [
+        "Persistent low mood",
+        "Disrupted sleep patterns",
+        "Social withdrawal",
+        "Changes in appetite",
+        "Hopelessness"
+    ],
+    "Diverticulitis of Gastrointestinal Tract": [
+        "Left sided abdominal pain",
+        "Constipation",
+        "Vomiting",
+        "Abdominal tenderness",
+        "Gas buildup"
+    ],
+    "Edema": [
+        "Swelling in ankles",
+        "Skin indentation after pressing",
+        "Heaviness in limbs",
+        "Reduced mobility",
+        "Shiny stretched skin"
+    ],
+    "Endometriosis": [
+        "Chronic pelvic pain",
+        "Pain during urination",
+        "Painful bowel movements",
+        "Spotting between periods",
+        "Pain during ovulation"
+    ],
+    "Fever": [
+        "Elevated temperature",
+        "Chills and shivering",
+        "Increased sweating",
+        "Body aches",
+        "Warm skin"
+    ],
+    "Fibromyalgia": [
+        "Generalized pain",
+        "Non restorative sleep",
+        "Stiffness in muscles",
+        "Sensitivity to touch",
+        "Difficulty focusing (fibro fog)"
+    ],
+    "Furunculosis": [
+        "Large boils",
+        "Skin redness around lesions",
+        "Discomfort in affected areas",
+        "Boils recurring over time",
+        "Swelling of surrounding tissue"
+    ],
+    "Gastroesophageal Reflux Disease": [
+        "Burning sensation in chest",
+        "Acidic taste in mouth",
+        "Dry cough",
+        "Sore throat",
+        "Difficulty swallowing"
+    ],
+    "Genital Herpes Simplex": [
+        "Painful genital sores",
+        "Genital itching",
+        "Flu like symptoms",
+        "Pain during urination",
+        "Swollen lymph nodes"
+    ],
+    "Gout": [
+        "Severe joint pain",
+        "Joint stiffness",
+        "Shiny skin over joint",
+        "Discoloration of joint area",
+        "Swelling in big toe"
+    ],
+    "Hemorrhoids": [
+        "Bleeding after bowel movements",
+        "Lump near anus",
+        "Itching in anal area",
+        "Discomfort while sitting",
+        "Leaking feces"
+    ],
+    "Herpes Zoster": [
+        "Localized pain",
+        "Blisters in a band like pattern",
+        "Sensitivity to touch",
+        "Pain before rash appears",
+        "Tingling sensation"
+    ],
+    "Hypercholesterolemia": [
+        "Xanthomas",
+        "Cholesterol deposits on eyelids",
+        "Corneal arcus",
+        "Fatigue on exertion",
+        "Early heart disease symptoms"
+    ],
+    "Hypertension": [
+        "Nosebleeds",
+        "Chest discomfort",
+        "Pounding in chest or neck",
+        "Vision problems",
+        "Shortness of breath during activity"
+    ],
+    "Impetigo": [
+        "Pus filled sores",
+        "Golden crusts over sores",
+        "Sores spreading on body",
+        "Mild itching",
+        "Swelling around affected area"
+    ],
+    "Infantile Autism": [
+        "Avoidance of social interactions",
+        "Unusual sensory responses",
+        "Strict adherence to routines",
+        "Limited speech development",
+        "Restricted range of interests"
+    ],
+    "Meniere's Disease": [
+        "Sudden vertigo episodes",
+        "Fluctuating hearing loss",
+        "Full sensation in ear",
+        "Ringing in ears",
+        "Imbalance while walking"
+    ],
+    "Oral Candidiasis": [
+        "White plaques in mouth",
+        "Cracking at corners of lips",
+        "Difficulty tasting",
+        "Mild burning in mouth",
+        "Bad breath"
+    ],
+    "Pharyngitis due to Streptococcus Pyogenes": [
+        "Sore throat with white patches",
+        "Fever with chills",
+        "Swollen glands in neck",
+        "Throat redness",
+        "Difficulty swallowing"
+    ],
+    "Prevention of Cerebrovascular Accident": [
+        "Blood pressure monitoring",
+        "Use of anticoagulants",
+        "Healthy diet maintenance",
+        "Smoking cessation",
+        "Regular physical activity"
+    ],
+    "Pyelonephritis": [
+        "Severe flank pain",
+        "High fever with chills",
+        "Nausea and vomiting",
+        "Frequent painful urination",
+        "Strong smelling urine"
+    ],
+    "Scabies": [
+        "Nighttime itching",
+        "Small red bumps",
+        "Track like burrows",
+        "Rash between fingers",
+        "Skin thickening in severe cases"
+    ],
+    "Sleepiness due to Obstructive Sleep Apnea": [
+        "Morning grogginess",
+        "Frequent awakenings",
+        "Snorting or choking during sleep",
+        "Decreased alertness during day",
+        "Dry mouth on waking"
+    ],
+    "Sore Throat": [
+        "Throat irritation",
+        "Hoarse voice",
+        "Swollen uvula",
+        "Pain radiating to ears",
+        "Dryness in throat"
+    ],
+    "Vertigo": [
+        "Loss of balance",
+        "Tilting sensation",
+        "Vomiting from spinning",
+        "Inability to focus eyes",
+        "Sense of falling"
+    ],
+    "Vulvovaginal Candidiasis": [
+        "Vaginal irritation",
+        "Thick discharge resembling cheese",
+        "Burning during urination",
+        "Painful intercourse",
+        "Swelling of vulva"
+    ]
+}
